@@ -1,0 +1,13 @@
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\ugurc\source\repos\BackEndProject\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
